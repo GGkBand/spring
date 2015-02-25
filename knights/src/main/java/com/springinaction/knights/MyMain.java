@@ -11,7 +11,5 @@ public class MyMain {
 	private static void duke() {
 		ApplicationContext context =
 				new ClassPathXmlApplicationContext("com/springinaction/springidol/spring-idol.xml");
-
-		Performer performer
 	}
 }
