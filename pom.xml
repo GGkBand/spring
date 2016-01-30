@@ -42,6 +42,7 @@
     <module>springidol-autodiscovery</module>
     <module>springidol-javaconfig</module>
     <module>springidol-qualifiers</module>
+    <module>sandbox</module>
   </modules>
 
   <repositories>
